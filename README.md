@@ -20,6 +20,7 @@ A responsive and dynamic personal portfolio showcasing my skills, projects, achi
 - Contact Information
 - Fast Loading
 - SEO Friendly
+- User Friendly
 
 ---
 
